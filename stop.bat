@@ -1,0 +1,1 @@
+net stop Tablo_Service
